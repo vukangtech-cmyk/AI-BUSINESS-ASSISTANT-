@@ -1,0 +1,8 @@
+{
+  "name": "VUKANG AI Business Assistant",
+  "description": "Intelligent business assistant designed to help small and medium businesses in Tanzania with customer support, marketing, WhatsApp messaging, financial calculations, and growth strategies. Powered by VukangTech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
